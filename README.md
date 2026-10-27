@@ -15,3 +15,4 @@ El funcionamiento se implementará mediante una máquina de estados finitos, que
 
 # MÁQUINA DE ESTADOS: 
 
+![Uploading Diagrama de estados del comedero para gatos.png…]()
