@@ -1,4 +1,4 @@
-<img width="1536" height="1024" alt="Diagrama de estados del comedero para gatos" src="https://github.com/user-attachments/assets/204a1936-72bb-4541-8fa6-ddaf00a5d07c" /># TP-N2-DE-INFO-2-
+# TP-N2-DE-INFO-2-
 
 # MEMORIA DESCRIPTIVA:
 
@@ -18,5 +18,5 @@ El funcionamiento se implementará mediante una máquina de estados finitos, que
 
 # MÁQUINA DE ESTADOS: 
 
-
+<img width="1536" height="1024" alt="Diagrama de estados del comedero para gatos" src="https://github.com/user-attachments/assets/204a1936-72bb-4541-8fa6-ddaf00a5d07c" />
 
