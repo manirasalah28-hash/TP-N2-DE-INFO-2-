@@ -1,4 +1,3 @@
-<img width="1536" height="1024" alt="Diagrama de estados de un dispensador de comida para gatos" src="https://github.com/user-attachments/assets/b77d1c24-b864-4ea0-8386-f0a6bc664da3" />
 # TP-N2-DE-INFO-2-
 
 # MEMORIA DESCRIPTIVA:
