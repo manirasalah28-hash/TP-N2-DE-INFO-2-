@@ -1,3 +1,4 @@
+<img width="1536" height="1024" alt="Diagrama de estados de un dispensador de comida para gatos" src="https://github.com/user-attachments/assets/b77d1c24-b864-4ea0-8386-f0a6bc664da3" />
 # TP-N2-DE-INFO-2-
 
 # MEMORIA DESCRIPTIVA:
@@ -17,6 +18,6 @@ Prevención de dispensados repetidos: el gato debe alejarse del sensor antes de 
 El funcionamiento se implementará mediante una máquina de estados finitos, que permitirá organizar las distintas etapas del proceso y controlar las transiciones según las señales del sensor y el tiempo transcurrido.
 
 # MÁQUINA DE ESTADOS: 
+<img width="1536" height="1024" alt="Diagrama de estados de un dispensador de comida para gatos" src="https://github.com/user-attachments/assets/455a735f-eff3-4817-abdb-0f844951528d" />
 
-<img width="1536" height="1024" alt="Diagrama de estados del comedero para gatos" src="https://github.com/user-attachments/assets/204a1936-72bb-4541-8fa6-ddaf00a5d07c" />
 
