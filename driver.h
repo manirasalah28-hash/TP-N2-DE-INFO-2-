@@ -1,7 +1,10 @@
+
 #ifndef DRIVER_H_
 #define DRIVER_H_
 
 #include <stdint.h>
+#include "avr_Gpio.h"
+#include "avr_Timers.h"
 
 void init_mcu(void);
 
