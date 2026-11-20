@@ -21,4 +21,7 @@ Para este proyecto voy a estar utilizando un atmega 32, un motor dc y un sensor 
 # MÁQUINA DE ESTADOS: 
 <img width="1536" height="1024" alt="Diagrama de estados de un dispensador de comida para gatos" src="https://github.com/user-attachments/assets/455a735f-eff3-4817-abdb-0f844951528d" />
 
+# ESQUEMATICO EN PROTEUS:
+
+<img width="912" height="752" alt="WhatsApp Image 2026-11-20 at 16 15 13" src="https://github.com/user-attachments/assets/abca9217-79fd-44de-b7e2-116cec896d18" />
 
