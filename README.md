@@ -16,6 +16,8 @@ Prevención de dispensados repetidos: el gato debe alejarse del sensor antes de 
 
 El funcionamiento se implementará mediante una máquina de estados finitos, que permitirá organizar las distintas etapas del proceso y controlar las transiciones según las señales del sensor y el tiempo transcurrido.
 
+Para este proyecto voy a estar utilizando un atmega 32, un motor dc y un sensor infrarrojo para el funcionamiento de mi dispositivo.
+
 # MÁQUINA DE ESTADOS: 
 <img width="1536" height="1024" alt="Diagrama de estados de un dispensador de comida para gatos" src="https://github.com/user-attachments/assets/455a735f-eff3-4817-abdb-0f844951528d" />
 
